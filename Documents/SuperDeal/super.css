@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding:0;
+  }
+.header
+{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: relative;
+   
+}
+
+.header .logo
+{
+    padding-top: 40px;
+    width: 200px; 
+    height: 40px;
+    left:30px;
+    
+}
+.link
+{
+    float:right;
+}
+.more li{
+    
+    /* position: relative; */
+    height: 10px;
+    line-height: 10px;
+    float: right;
+   
+}
+.more li a{
+    color: black; 
+    display:inline-block;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.more a:hover{
+    color:blue;
+    background-color:white;
+ }
+.select
+{
+    /* padding-top:10px; */
+    margin-top: 10px;  
+    width:60%;
+    border-top: 2px solid black; 
+    background-color:white;
+    position:relative;
+    float: right;
+   
+}
+.menu li{
+    display:inline-table;
+    position:relative;
+    /* letter-spacing:2px; */
+    width: 100px;
+    height: 70px;
+    line-height:70px;
+   
+   
+  }
+  .menu li a{
+    text-decoration:none;
+    color:black;
+    display:inline-block;
+    margin-left: 30px;
+  }
+  .menu a:hover{
+    color:blue;
+    background-color:white;
+  }
+  .body
+  {
+    padding-top: 70px;
+    width: 100%;
+
+  }
+  .buy tr td a
+  {
+    text-decoration: none;
+    color: black;
+  }
+  .buy tr td a:hover
+  {
+     color: blue;
+  }
+   /* .buy tr td a p
+  {
+      text-decoration: none;
+      text-align: left;
+      color: black;
+
+  }
+  .buy tr td a p:hover
+  {
+      color: blue;
+  }  */
+  .Tprice
+  {
+      width: 100%;
+      border: none;
+  }
+  .Tprice tr td
+  {
+      border: none;
+  }
+  .sale
+  {
+      text-align: left;
+      font-size: 20px;
+      color: red;
+      font-weight: bold;
+  }
+  .price 
+  {
+      text-align: right;
+  }
+  .price .price-old
+  {
+      text-decoration: line-through;
+  }
+  .price .price-new
+  {
+      font-weight: bold;
+      font-size: 15px;
+  }
+  .currency
+  {
+      text-align: right;
+      font-size: 30px;
+
+  }
+  .sale .icon
+  {
+      display: inline-block;
+
+  }
