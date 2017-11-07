@@ -1,7 +1,8 @@
-* {
- text-decoration: none;
- background: #f3f3f3;
-}
+body {
+    background: #fff; 
+    font-family: '';
+    font-size: 14;
+} 
 .set-parent-background {
  background: inherit;
 }
@@ -103,3 +104,4 @@ p.item-description {
  left: 45px;
  top: 290px;
 }
+
