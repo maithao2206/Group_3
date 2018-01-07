@@ -1,5 +1,5 @@
 var getTwoNumber = function (number) {
-   return number <10?'0'+ number : number;
+   return number < 10 ? '0' + number : number;
 }
 var formatDate = function (mdate) { 
    var  month = getTwoNumber(mdate.getMonth() + 1),

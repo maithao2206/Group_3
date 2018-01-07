@@ -18,7 +18,7 @@ app.views.TodoView.prototype.getCurrentTodo = function(self) {
 app.views.TodoView.prototype.editTodo= function(self, currentTodo) {
   self.children('.text-todo').hide();
   self.children('.check-todo').hide();
-  self.children('.delete-todo').hide();
+  self.children('.delete-todo').show();
   self.children('.edit-todo').show();
 
   var currentTodo = this.getCurrentTodo(self);
@@ -32,7 +32,7 @@ app.views.TodoView.prototype.deleteTodo = function() {
 }
 
 app.views.TodoView.prototype.finishEdit = function(self, id) {
-  self.next('.text-todo').html(self.val()).show();
+  self.prev('.text-todo').html(self.val()).show();
   self.prev('.check-todo').show();
   self.next('.delete-todo').hide();
   self.hide();
@@ -46,6 +46,7 @@ app.views.TodoView.prototype.handleEvent = function(event, handler) {
     case 'editTodo':
       var currentTodo = '';
       $('.display').on('dblclick', 'li', function(e) {
+        $(this).find('.edit-todo').focus();
         currentTodo = self.getCurrentTodo($(this));
         self.editTodo($(this), currentTodo);
       });
@@ -56,16 +57,23 @@ app.views.TodoView.prototype.handleEvent = function(event, handler) {
       //   // handler(todo);
       //   // self.editTodo($(this));
       // });
-      case 'deleteTodo':
-      $('li').hover( function() {
-        
-      });
-      $('.display').on('click', 'button', function(e) {
-        var index = self.todos.indexOf(todo);
-        self.todos.splice(index, 1);
-      });
+      $('.display').on('focusout', '.edit-todo', function(e) {
+        var todo = new app.todoView.finishEdit($(this), currentTodo.id);
+        // app.todoList.addTodo(todo);
+        // $('.new-todo').val($('.new-todo').val()).focus();
+      })
+      $('.display').on('keypress', '.edit-todo', function(e) {
+        if(e.keyCode === app.constant.ENTER) {
+          e.target.blur();
+          $('.new-todo').val($('.new-todo').val()).focus();
+        }
+        });
       break;
-    case '':
+      case 'deleteTodo':
+        $('.display').on('click', 'button', function(e) {
+          
+        });
+        break;
       $()
     default:
 

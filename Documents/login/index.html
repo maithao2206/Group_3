@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
@@ -16,8 +17,14 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/login.css">
+    <script
+    src="https://code.jquery.com/jquery-3.2.1.js"
+    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+    crossorigin="anonymous"></script>
+   
+   
 </head>
-<body>
+<body onload="loading()">
         <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="logo header-container">
@@ -31,9 +38,10 @@
                             <span class="input-group-addon icon-user color-btn"></span>
                              <input type="text" class="form-control" placeholder="Username">
                         </div>
+                        <p class="check"></p>
                          <div class="input-group text">
                             <span class="input-group-addon icon-key color-btn"></span>
-                            <input type="text" class="form-control" placeholder="Password">
+                            <input type="password" class="form-control" placeholder="Password">
                         </div>
                         <div class="form-group">
                             <div class="checkbox"> 
@@ -43,9 +51,11 @@
                                 <a class="forgot-pass" href="#">Forgot Password?</a>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-login">Login</button>
+                        <button type="button" class="btn btn-login">Login</button>
                     </form>
                 </div>
         </div>
+        <script src="login.js"></script>
+       
 </body>
 </html>

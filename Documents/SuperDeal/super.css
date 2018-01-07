@@ -2,8 +2,7 @@
     margin:0;
     padding:0;
   }
-.header
-{
+.header {
     width: 100%;
     height: 100px;
     background-color: white;
@@ -11,8 +10,7 @@
    
 }
 
-.header .logo
-{
+.header .logo {
     padding-top: 40px;
     width: 200px; 
     height: 40px;
@@ -23,26 +21,29 @@
 {
     float:right;
 }
-.more li{
+.more li {
     
-    /* position: relative; */
+    position: relative;
+    top: -5px;
     height: 10px;
     line-height: 10px;
     float: right;
+    right: 50px;
+    list-style-type: none;
+
    
 }
-.more li a{
+.more li a {
     color: black; 
     display:inline-block;
     font-size: 15px;
     margin-left: 10px;
 }
-.more a:hover{
+.more a:hover {
     color:blue;
     background-color:white;
  }
-.select
-{
+.select {
     /* padding-top:10px; */
     margin-top: 10px;  
     width:60%;
@@ -52,7 +53,7 @@
     float: right;
    
 }
-.menu li{
+.menu li {
     display:inline-table;
     position:relative;
     /* letter-spacing:2px; */
@@ -62,29 +63,26 @@
    
    
   }
-  .menu li a{
+  .menu li a {
     text-decoration:none;
     color:black;
     display:inline-block;
     margin-left: 30px;
   }
-  .menu a:hover{
+  .menu a:hover {
     color:blue;
     background-color:white;
   }
-  .body
-  {
+  .body {
     padding-top: 70px;
     width: 100%;
 
   }
-  .buy tr td a
-  {
+  .buy tr td a {
     text-decoration: none;
     color: black;
   }
-  .buy tr td a:hover
-  {
+  .buy tr td a:hover {
      color: blue;
   }
    /* .buy tr td a p
@@ -98,43 +96,35 @@
   {
       color: blue;
   }  */
-  .Tprice
-  {
+  .Tprice {
       width: 100%;
       border: none;
   }
-  .Tprice tr td
-  {
+  .Tprice tr td {
       border: none;
   }
-  .sale
-  {
+  .sale {
       text-align: left;
       font-size: 20px;
       color: red;
       font-weight: bold;
   }
-  .price 
-  {
+  .price {
       text-align: right;
   }
-  .price .price-old
-  {
+  .price .price-old {
       text-decoration: line-through;
   }
-  .price .price-new
-  {
+  .price .price-new {
       font-weight: bold;
       font-size: 15px;
   }
-  .currency
-  {
+  .currency {
       text-align: right;
       font-size: 30px;
 
   }
-  .sale .icon
-  {
+  .sale .icon {
       display: inline-block;
 
   }
