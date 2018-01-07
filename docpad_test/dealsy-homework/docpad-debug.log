@@ -1,0 +1,2644 @@
+debug: Emitting the event: consoleSetup
+    → [2018-01-07 10:48:13.624] [/usr/lib/node_modules/docpad/out/lib/interfaces/console.js:94] [new ConsoleInterface]
+debug: Emitted the event: consoleSetup
+    → [2018-01-07 10:48:13.661] [events.js:254] [Object.onceWrapper]
+debug: action runner ➞  runner task for action: ready > added
+    → [2018-01-07 10:48:13.669] [events.js:159] [_Class.emit]
+debug: action runner > started
+    → [2018-01-07 10:48:13.675] [events.js:159] [_Class.emit]
+debug: action runner ➞  runner task for action: ready > started
+    → [2018-01-07 10:48:13.677] [events.js:159] [_Class.emit]
+debug: load tasks ➞  normalize the userConfigPath > added
+    → [2018-01-07 10:48:13.681] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the user's configuration > added
+    → [2018-01-07 10:48:13.682] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the anonymous user's configuration > added
+    → [2018-01-07 10:48:13.684] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the website's package data > added
+    → [2018-01-07 10:48:13.685] [events.js:159] [_Class.emit]
+debug: load tasks ➞  read the .env file if it exists > added
+    → [2018-01-07 10:48:13.686] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the website's configuration > added
+    → [2018-01-07 10:48:13.688] [events.js:159] [_Class.emit]
+debug: load tasks > started
+    → [2018-01-07 10:48:13.692] [events.js:159] [_Class.emit]
+debug: load tasks ➞  normalize the userConfigPath > started
+    → [2018-01-07 10:48:13.694] [events.js:159] [_Class.emit]
+debug: load tasks ➞  normalize the userConfigPath > done
+    → [2018-01-07 10:48:13.696] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the user's configuration > started
+    → [2018-01-07 10:48:13.699] [events.js:159] [_Class.emit]
+debug: Loading user's configuration: /home/thaopm/.docpad.cson
+    → [2018-01-07 10:48:13.700] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: Loading configuration path: /home/thaopm/.docpad.cson
+    → [2018-01-07 10:48:13.702] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2819] [DocPad.loadConfigPath]
+debug: Loading user's configuration: /home/thaopm/.docpad.cson
+    → [2018-01-07 10:48:13.714] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2814] [unknown]
+debug: load tasks ➞  load the user's configuration > done
+    → [2018-01-07 10:48:13.715] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the anonymous user's configuration > started
+    → [2018-01-07 10:48:13.716] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the anonymous user's configuration > done
+    → [2018-01-07 10:48:13.717] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the website's package data > started
+    → [2018-01-07 10:48:13.719] [events.js:159] [_Class.emit]
+debug: Loading website package.json configuration: /home/thaopm/docpad_test/dealsy-homework/package.json
+    → [2018-01-07 10:48:13.720] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: Loading configuration path: /home/thaopm/docpad_test/dealsy-homework/package.json
+    → [2018-01-07 10:48:13.721] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2819] [DocPad.loadConfigPath]
+debug: Loaded website package.json configuration: /home/thaopm/docpad_test/dealsy-homework/package.json
+    → [2018-01-07 10:48:13.724] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2814] [unknown]
+debug: load tasks ➞  load the website's package data > done
+    → [2018-01-07 10:48:13.726] [events.js:159] [_Class.emit]
+debug: load tasks ➞  read the .env file if it exists > started
+    → [2018-01-07 10:48:13.728] [events.js:159] [_Class.emit]
+debug: Loading .env file configuration: /home/thaopm/docpad_test/dealsy-homework/.env
+    → [2018-01-07 10:48:13.729] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: load tasks ➞  read the .env file if it exists > done
+    → [2018-01-07 10:48:13.731] [events.js:159] [_Class.emit]
+debug: load tasks ➞  load the website's configuration > started
+    → [2018-01-07 10:48:13.732] [events.js:159] [_Class.emit]
+debug: Loading website configuration
+    → [2018-01-07 10:48:13.734] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.js] exists > added
+    → [2018-01-07 10:48:13.736] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.coffee] exists > added
+    → [2018-01-07 10:48:13.737] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.json] exists > added
+    → [2018-01-07 10:48:13.738] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.cson] exists > added
+    → [2018-01-07 10:48:13.740] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks > started
+    → [2018-01-07 10:48:13.743] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.js] exists > started
+    → [2018-01-07 10:48:13.744] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.js] exists > done
+    → [2018-01-07 10:48:13.747] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.coffee] exists > started
+    → [2018-01-07 10:48:13.749] [events.js:159] [_Class.emit]
+debug: getConfigPath tasks ➞  Checking if [/home/thaopm/docpad_test/dealsy-homework/docpad.coffee] exists > done
+    → [2018-01-07 10:48:13.750] [events.js:159] [_Class.emit]
+debug: Loading configuration path: /home/thaopm/docpad_test/dealsy-homework/docpad.coffee
+    → [2018-01-07 10:48:13.751] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2822] [unknown]
+debug: Loaded website configuration
+    → [2018-01-07 10:48:13.766] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2814] [unknown]
+debug: load tasks ➞  load the website's configuration > done
+    → [2018-01-07 10:48:13.766] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  load plugins > added
+    → [2018-01-07 10:48:13.768] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  extend collections > added
+    → [2018-01-07 10:48:13.770] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  fetch plugins templateData > added
+    → [2018-01-07 10:48:13.771] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  fire the docpadLoaded event > added
+    → [2018-01-07 10:48:13.772] [events.js:159] [_Class.emit]
+debug: setConfig post tasks > started
+    → [2018-01-07 10:48:13.773] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  load plugins > started
+    → [2018-01-07 10:48:13.775] [events.js:159] [_Class.emit]
+debug: loadPlugins tasks ➞  load the website's plugins at: /home/thaopm/docpad_test/dealsy-homework/node_modules > added
+    → [2018-01-07 10:48:13.781] [events.js:159] [_Class.emit]
+debug: loadPlugins tasks ➞  load the website's plugins at: /home/thaopm/docpad_test/dealsy-homework/plugins > added
+    → [2018-01-07 10:48:13.783] [events.js:159] [_Class.emit]
+debug: loadPlugins tasks > started
+    → [2018-01-07 10:48:13.784] [events.js:159] [_Class.emit]
+debug: loadPlugins tasks ➞  load the website's plugins at: /home/thaopm/docpad_test/dealsy-homework/node_modules > started
+    → [2018-01-07 10:48:13.786] [events.js:159] [_Class.emit]
+debug: loadPlugins tasks ➞  load the website's plugins at: /home/thaopm/docpad_test/dealsy-homework/plugins > started
+    → [2018-01-07 10:48:13.787] [events.js:159] [_Class.emit]
+debug: Plugins loading for: /home/thaopm/docpad_test/dealsy-homework/node_modules
+    → [2018-01-07 10:48:13.789] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4210] [unknown]
+debug: loadPlugins tasks ➞  load the website's plugins at: /home/thaopm/docpad_test/dealsy-homework/plugins > done
+    → [2018-01-07 10:48:13.792] [events.js:159] [_Class.emit]
+debug: Loading plugin: .bin
+    → [2018-01-07 10:48:13.881] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: accepts
+    → [2018-01-07 10:48:13.883] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: access-control
+    → [2018-01-07 10:48:13.884] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: acorn
+    → [2018-01-07 10:48:13.885] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: acorn-globals
+    → [2018-01-07 10:48:13.887] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: align-text
+    → [2018-01-07 10:48:13.889] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ambi
+    → [2018-01-07 10:48:13.890] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: amdefine
+    → [2018-01-07 10:48:13.891] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ansicolors
+    → [2018-01-07 10:48:13.892] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ansistyles
+    → [2018-01-07 10:48:13.893] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: argparse
+    → [2018-01-07 10:48:13.894] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: asap
+    → [2018-01-07 10:48:13.895] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: async
+    → [2018-01-07 10:48:13.896] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: asyncemit
+    → [2018-01-07 10:48:13.897] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: backbone
+    → [2018-01-07 10:48:13.898] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: bal-util
+    → [2018-01-07 10:48:13.900] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: balanced-match
+    → [2018-01-07 10:48:13.901] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: base64-url
+    → [2018-01-07 10:48:13.903] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: basic-auth
+    → [2018-01-07 10:48:13.905] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: basic-auth-connect
+    → [2018-01-07 10:48:13.906] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: batch
+    → [2018-01-07 10:48:13.907] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: binaryextensions
+    → [2018-01-07 10:48:13.908] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: body-parser
+    → [2018-01-07 10:48:13.908] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: brace-expansion
+    → [2018-01-07 10:48:13.910] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: bytes
+    → [2018-01-07 10:48:13.911] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: camelcase
+    → [2018-01-07 10:48:13.912] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: caterpillar
+    → [2018-01-07 10:48:13.913] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: caterpillar-filter
+    → [2018-01-07 10:48:13.914] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: caterpillar-human
+    → [2018-01-07 10:48:13.915] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: center-align
+    → [2018-01-07 10:48:13.916] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: character-parser
+    → [2018-01-07 10:48:13.917] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: clean-css
+    → [2018-01-07 10:48:13.918] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cliui
+    → [2018-01-07 10:48:13.920] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: coffee-script
+    → [2018-01-07 10:48:13.922] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: color
+    → [2018-01-07 10:48:13.923] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: color-convert
+    → [2018-01-07 10:48:13.925] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: color-name
+    → [2018-01-07 10:48:13.926] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: color-string
+    → [2018-01-07 10:48:13.927] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: colornames
+    → [2018-01-07 10:48:13.932] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: colorspace
+    → [2018-01-07 10:48:13.933] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: combined-stream
+    → [2018-01-07 10:48:13.934] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: commander
+    → [2018-01-07 10:48:13.935] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: component-emitter
+    → [2018-01-07 10:48:13.937] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: compressible
+    → [2018-01-07 10:48:13.938] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: compression
+    → [2018-01-07 10:48:13.939] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: concat-map
+    → [2018-01-07 10:48:13.940] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: connect
+    → [2018-01-07 10:48:13.941] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: connect-timeout
+    → [2018-01-07 10:48:13.942] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: connected
+    → [2018-01-07 10:48:13.943] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: constantinople
+    → [2018-01-07 10:48:13.944] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: content-disposition
+    → [2018-01-07 10:48:13.945] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: content-type
+    → [2018-01-07 10:48:13.946] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cookie
+    → [2018-01-07 10:48:13.946] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cookie-parser
+    → [2018-01-07 10:48:13.947] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cookie-signature
+    → [2018-01-07 10:48:13.948] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cookiejar
+    → [2018-01-07 10:48:13.950] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: core-util-is
+    → [2018-01-07 10:48:13.951] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: crc
+    → [2018-01-07 10:48:13.952] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: create-server
+    → [2018-01-07 10:48:13.954] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: csextends
+    → [2018-01-07 10:48:13.955] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cson
+    → [2018-01-07 10:48:13.956] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: cson-parser
+    → [2018-01-07 10:48:13.958] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: csrf
+    → [2018-01-07 10:48:13.959] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: css
+    → [2018-01-07 10:48:13.960] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: css-parse
+    → [2018-01-07 10:48:13.961] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: css-stringify
+    → [2018-01-07 10:48:13.962] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: csurf
+    → [2018-01-07 10:48:13.964] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: debug
+    → [2018-01-07 10:48:13.964] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: decamelize
+    → [2018-01-07 10:48:13.965] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: delayed-stream
+    → [2018-01-07 10:48:13.966] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: depd
+    → [2018-01-07 10:48:13.967] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: destroy
+    → [2018-01-07 10:48:13.968] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: diagnostics
+    → [2018-01-07 10:48:13.969] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: docpad
+    → [2018-01-07 10:48:13.972] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: jade
+    → [2018-01-07 10:48:13.973] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: livereload
+    → [2018-01-07 10:48:13.974] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: sass
+    → [2018-01-07 10:48:13.975] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: eachr
+    → [2018-01-07 10:48:13.977] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: editions
+    → [2018-01-07 10:48:13.978] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ee-first
+    → [2018-01-07 10:48:13.978] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: emits
+    → [2018-01-07 10:48:13.979] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: enabled
+    → [2018-01-07 10:48:13.980] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: encoding
+    → [2018-01-07 10:48:13.981] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: env-variable
+    → [2018-01-07 10:48:13.981] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: envfile
+    → [2018-01-07 10:48:13.982] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: errorhandler
+    → [2018-01-07 10:48:13.982] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: escape-html
+    → [2018-01-07 10:48:13.983] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: etag
+    → [2018-01-07 10:48:13.984] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: event-emitter-grouped
+    → [2018-01-07 10:48:13.984] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: eventemitter3
+    → [2018-01-07 10:48:13.985] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: express
+    → [2018-01-07 10:48:13.985] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: express-session
+    → [2018-01-07 10:48:13.986] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: extend
+    → [2018-01-07 10:48:13.987] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: extendible
+    → [2018-01-07 10:48:13.988] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: extendr
+    → [2018-01-07 10:48:13.989] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: extract-opts
+    → [2018-01-07 10:48:13.989] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: finalhandler
+    → [2018-01-07 10:48:13.990] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: form-data
+    → [2018-01-07 10:48:13.991] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: formidable
+    → [2018-01-07 10:48:13.992] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: forwarded
+    → [2018-01-07 10:48:13.993] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: forwarded-for
+    → [2018-01-07 10:48:13.994] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: fresh
+    → [2018-01-07 10:48:13.995] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: fs.realpath
+    → [2018-01-07 10:48:13.995] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: fusing
+    → [2018-01-07 10:48:13.996] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: getmac
+    → [2018-01-07 10:48:13.997] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: glob
+    → [2018-01-07 10:48:13.998] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: graceful-fs
+    → [2018-01-07 10:48:13.998] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: graceful-readlink
+    → [2018-01-07 10:48:13.999] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: hostenv
+    → [2018-01-07 10:48:14.000] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: http-errors
+    → [2018-01-07 10:48:14.001] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: iconv-lite
+    → [2018-01-07 10:48:14.002] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ignorefs
+    → [2018-01-07 10:48:14.002] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ignorepatterns
+    → [2018-01-07 10:48:14.003] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: inflight
+    → [2018-01-07 10:48:14.004] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: inherits
+    → [2018-01-07 10:48:14.004] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ipaddr.js
+    → [2018-01-07 10:48:14.005] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: is-buffer
+    → [2018-01-07 10:48:14.006] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: is-promise
+    → [2018-01-07 10:48:14.007] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: isarray
+    → [2018-01-07 10:48:14.010] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: istextorbinary
+    → [2018-01-07 10:48:14.012] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: jade
+    → [2018-01-07 10:48:14.014] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: jschardet
+    → [2018-01-07 10:48:14.015] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: jstransformer
+    → [2018-01-07 10:48:14.016] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: kind-of
+    → [2018-01-07 10:48:14.017] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: kuler
+    → [2018-01-07 10:48:14.017] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: lazy-cache
+    → [2018-01-07 10:48:14.018] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: lazy-require
+    → [2018-01-07 10:48:14.018] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: longest
+    → [2018-01-07 10:48:14.019] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: media-typer
+    → [2018-01-07 10:48:14.019] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: merge-descriptors
+    → [2018-01-07 10:48:14.020] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: method-override
+    → [2018-01-07 10:48:14.021] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: methods
+    → [2018-01-07 10:48:14.021] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: millisecond
+    → [2018-01-07 10:48:14.022] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: mime
+    → [2018-01-07 10:48:14.023] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: mime-db
+    → [2018-01-07 10:48:14.024] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: mime-types
+    → [2018-01-07 10:48:14.026] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: minimatch
+    → [2018-01-07 10:48:14.028] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: minimist
+    → [2018-01-07 10:48:14.029] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: mkdirp
+    → [2018-01-07 10:48:14.030] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: morgan
+    → [2018-01-07 10:48:14.033] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ms
+    → [2018-01-07 10:48:14.034] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: multiparty
+    → [2018-01-07 10:48:14.034] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: mute-stream
+    → [2018-01-07 10:48:14.035] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: negotiator
+    → [2018-01-07 10:48:14.036] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: on-finished
+    → [2018-01-07 10:48:14.036] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: on-headers
+    → [2018-01-07 10:48:14.037] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: once
+    → [2018-01-07 10:48:14.037] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: optimist
+    → [2018-01-07 10:48:14.038] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: parseurl
+    → [2018-01-07 10:48:14.038] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: path-is-absolute
+    → [2018-01-07 10:48:14.039] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: pause
+    → [2018-01-07 10:48:14.039] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: predefine
+    → [2018-01-07 10:48:14.040] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: primus
+    → [2018-01-07 10:48:14.041] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: progress
+    → [2018-01-07 10:48:14.042] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: progressbar
+    → [2018-01-07 10:48:14.043] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: promise
+    → [2018-01-07 10:48:14.045] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: promptly
+    → [2018-01-07 10:48:14.048] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: proxy-addr
+    → [2018-01-07 10:48:14.050] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: qs
+    → [2018-01-07 10:48:14.052] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: query-engine
+    → [2018-01-07 10:48:14.053] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: range-parser
+    → [2018-01-07 10:48:14.054] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: raw-body
+    → [2018-01-07 10:48:14.055] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: read
+    → [2018-01-07 10:48:14.055] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: readable-stream
+    → [2018-01-07 10:48:14.056] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: random-bytes
+    → [2018-01-07 10:48:14.056] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: reduce-component
+    → [2018-01-07 10:48:14.057] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: requirefresh
+    → [2018-01-07 10:48:14.057] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: repeat-string
+    → [2018-01-07 10:48:14.058] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: response-time
+    → [2018-01-07 10:48:14.059] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: right-align
+    → [2018-01-07 10:48:14.059] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: rimraf
+    → [2018-01-07 10:48:14.060] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: rndm
+    → [2018-01-07 10:48:14.061] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: safe-buffer
+    → [2018-01-07 10:48:14.061] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: safefs
+    → [2018-01-07 10:48:14.062] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: safeps
+    → [2018-01-07 10:48:14.063] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: scandirectory
+    → [2018-01-07 10:48:14.065] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: semver
+    → [2018-01-07 10:48:14.066] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: send
+    → [2018-01-07 10:48:14.068] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: serve-favicon
+    → [2018-01-07 10:48:14.068] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: serve-index
+    → [2018-01-07 10:48:14.069] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: serve-static
+    → [2018-01-07 10:48:14.069] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: setheader
+    → [2018-01-07 10:48:14.070] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: source-map
+    → [2018-01-07 10:48:14.070] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: sprintf-js
+    → [2018-01-07 10:48:14.071] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: statuses
+    → [2018-01-07 10:48:14.072] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: stream-counter
+    → [2018-01-07 10:48:14.072] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: string_decoder
+    → [2018-01-07 10:48:14.073] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: superagent
+    → [2018-01-07 10:48:14.073] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: taskgroup
+    → [2018-01-07 10:48:14.074] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: text-hex
+    → [2018-01-07 10:48:14.075] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: textextensions
+    → [2018-01-07 10:48:14.079] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: transformers
+    → [2018-01-07 10:48:14.080] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: tsscmp
+    → [2018-01-07 10:48:14.082] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: type-is
+    → [2018-01-07 10:48:14.083] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: typechecker
+    → [2018-01-07 10:48:14.085] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: uglify-js
+    → [2018-01-07 10:48:14.086] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: uglify-to-browserify
+    → [2018-01-07 10:48:14.087] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: uid-safe
+    → [2018-01-07 10:48:14.087] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ultron
+    → [2018-01-07 10:48:14.088] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: underscore
+    → [2018-01-07 10:48:14.088] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: unpipe
+    → [2018-01-07 10:48:14.089] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: utils-merge
+    → [2018-01-07 10:48:14.089] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: vary
+    → [2018-01-07 10:48:14.090] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: vhost
+    → [2018-01-07 10:48:14.091] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: void-elements
+    → [2018-01-07 10:48:14.092] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: watchr
+    → [2018-01-07 10:48:14.094] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: window-size
+    → [2018-01-07 10:48:14.094] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: with
+    → [2018-01-07 10:48:14.095] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: wordwrap
+    → [2018-01-07 10:48:14.096] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: wrappy
+    → [2018-01-07 10:48:14.097] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: ws
+    → [2018-01-07 10:48:14.098] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: yamljs
+    → [2018-01-07 10:48:14.103] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: yargs
+    → [2018-01-07 10:48:14.104] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Loading plugin: yeast
+    → [2018-01-07 10:48:14.105] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4347] [Object.dirAction]
+debug: Skipped the unsupported plugin: access-control due to type
+    → [2018-01-07 10:48:14.138] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: acorn due to type
+    → [2018-01-07 10:48:14.139] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: align-text due to type
+    → [2018-01-07 10:48:14.140] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ambi due to type
+    → [2018-01-07 10:48:14.141] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: amdefine due to type
+    → [2018-01-07 10:48:14.143] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ansicolors due to type
+    → [2018-01-07 10:48:14.146] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ansistyles due to type
+    → [2018-01-07 10:48:14.148] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: asap due to type
+    → [2018-01-07 10:48:14.151] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: async due to type
+    → [2018-01-07 10:48:14.153] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: asyncemit due to type
+    → [2018-01-07 10:48:14.154] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: backbone due to type
+    → [2018-01-07 10:48:14.155] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: bal-util due to type
+    → [2018-01-07 10:48:14.156] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: balanced-match due to type
+    → [2018-01-07 10:48:14.158] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: base64-url due to type
+    → [2018-01-07 10:48:14.159] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: batch due to type
+    → [2018-01-07 10:48:14.162] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: binaryextensions due to type
+    → [2018-01-07 10:48:14.163] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: brace-expansion due to type
+    → [2018-01-07 10:48:14.166] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: caterpillar-filter due to type
+    → [2018-01-07 10:48:14.169] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: caterpillar-human due to type
+    → [2018-01-07 10:48:14.171] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: center-align due to type
+    → [2018-01-07 10:48:14.173] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: character-parser due to type
+    → [2018-01-07 10:48:14.174] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: clean-css due to type
+    → [2018-01-07 10:48:14.175] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: caterpillar due to type
+    → [2018-01-07 10:48:14.177] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: cliui due to type
+    → [2018-01-07 10:48:14.178] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: coffee-script due to type
+    → [2018-01-07 10:48:14.181] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: color-name due to type
+    → [2018-01-07 10:48:14.183] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: color-string due to type
+    → [2018-01-07 10:48:14.185] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: colornames due to type
+    → [2018-01-07 10:48:14.187] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: colorspace due to type
+    → [2018-01-07 10:48:14.189] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: combined-stream due to type
+    → [2018-01-07 10:48:14.191] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: commander due to type
+    → [2018-01-07 10:48:14.192] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: component-emitter due to type
+    → [2018-01-07 10:48:14.194] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: concat-map due to type
+    → [2018-01-07 10:48:14.196] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: connected due to type
+    → [2018-01-07 10:48:14.198] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: cookie-signature due to type
+    → [2018-01-07 10:48:14.202] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: cookiejar due to type
+    → [2018-01-07 10:48:14.204] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: core-util-is due to type
+    → [2018-01-07 10:48:14.205] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: crc due to type
+    → [2018-01-07 10:48:14.206] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: create-server due to type
+    → [2018-01-07 10:48:14.208] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: csextends due to type
+    → [2018-01-07 10:48:14.210] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: cson due to type
+    → [2018-01-07 10:48:14.211] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: cson-parser due to type
+    → [2018-01-07 10:48:14.213] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: css due to type
+    → [2018-01-07 10:48:14.215] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: css-parse due to type
+    → [2018-01-07 10:48:14.216] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: css-stringify due to type
+    → [2018-01-07 10:48:14.217] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: debug due to type
+    → [2018-01-07 10:48:14.219] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: delayed-stream due to type
+    → [2018-01-07 10:48:14.222] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: diagnostics due to type
+    → [2018-01-07 10:48:14.225] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: docpad due to type
+    → [2018-01-07 10:48:14.228] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Loaded plugin: jade
+    → [2018-01-07 10:48:14.495] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:313] [PluginLoader.create]
+debug: Loaded plugin: livereload
+    → [2018-01-07 10:48:14.499] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:313] [PluginLoader.create]
+debug: Loaded plugin: sass
+    → [2018-01-07 10:48:14.538] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:313] [PluginLoader.create]
+debug: Skipped the unsupported plugin: eachr due to type
+    → [2018-01-07 10:48:14.539] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: editions due to type
+    → [2018-01-07 10:48:14.540] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: emits due to type
+    → [2018-01-07 10:48:14.541] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: enabled due to type
+    → [2018-01-07 10:48:14.542] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: encoding due to type
+    → [2018-01-07 10:48:14.542] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: env-variable due to type
+    → [2018-01-07 10:48:14.543] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: envfile due to type
+    → [2018-01-07 10:48:14.543] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: event-emitter-grouped due to type
+    → [2018-01-07 10:48:14.545] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: eventemitter3 due to type
+    → [2018-01-07 10:48:14.546] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: extend due to type
+    → [2018-01-07 10:48:14.547] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: extendible due to type
+    → [2018-01-07 10:48:14.548] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: extendr due to type
+    → [2018-01-07 10:48:14.549] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: extract-opts due to type
+    → [2018-01-07 10:48:14.551] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: form-data due to type
+    → [2018-01-07 10:48:14.552] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: formidable due to type
+    → [2018-01-07 10:48:14.555] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: forwarded-for due to type
+    → [2018-01-07 10:48:14.555] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: fs.realpath due to type
+    → [2018-01-07 10:48:14.557] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: fusing due to type
+    → [2018-01-07 10:48:14.558] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: getmac due to type
+    → [2018-01-07 10:48:14.560] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: glob due to type
+    → [2018-01-07 10:48:14.560] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: graceful-fs due to type
+    → [2018-01-07 10:48:14.561] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: graceful-readlink due to type
+    → [2018-01-07 10:48:14.562] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: hostenv due to type
+    → [2018-01-07 10:48:14.562] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: iconv-lite due to type
+    → [2018-01-07 10:48:14.565] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ignorefs due to type
+    → [2018-01-07 10:48:14.566] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ignorepatterns due to type
+    → [2018-01-07 10:48:14.568] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: inflight due to type
+    → [2018-01-07 10:48:14.569] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: inherits due to type
+    → [2018-01-07 10:48:14.569] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ipaddr.js due to type
+    → [2018-01-07 10:48:14.570] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: is-buffer due to type
+    → [2018-01-07 10:48:14.571] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: is-promise due to type
+    → [2018-01-07 10:48:14.572] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: isarray due to type
+    → [2018-01-07 10:48:14.573] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: istextorbinary due to type
+    → [2018-01-07 10:48:14.574] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: jade due to type
+    → [2018-01-07 10:48:14.575] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: jschardet due to type
+    → [2018-01-07 10:48:14.575] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: kind-of due to type
+    → [2018-01-07 10:48:14.576] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: kuler due to type
+    → [2018-01-07 10:48:14.577] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: lazy-cache due to type
+    → [2018-01-07 10:48:14.577] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: lazy-require due to type
+    → [2018-01-07 10:48:14.578] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: longest due to type
+    → [2018-01-07 10:48:14.579] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: millisecond due to type
+    → [2018-01-07 10:48:14.581] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: mime due to type
+    → [2018-01-07 10:48:14.582] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: minimatch due to type
+    → [2018-01-07 10:48:14.584] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: minimist due to type
+    → [2018-01-07 10:48:14.584] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: mkdirp due to type
+    → [2018-01-07 10:48:14.585] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ms due to type
+    → [2018-01-07 10:48:14.586] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: mute-stream due to type
+    → [2018-01-07 10:48:14.586] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: once due to type
+    → [2018-01-07 10:48:14.587] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: optimist due to type
+    → [2018-01-07 10:48:14.590] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: predefine due to type
+    → [2018-01-07 10:48:14.592] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: primus due to type
+    → [2018-01-07 10:48:14.594] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: progressbar due to type
+    → [2018-01-07 10:48:14.595] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: promise due to type
+    → [2018-01-07 10:48:14.596] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: promptly due to type
+    → [2018-01-07 10:48:14.598] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: qs due to type
+    → [2018-01-07 10:48:14.599] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: query-engine due to type
+    → [2018-01-07 10:48:14.600] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: progress due to type
+    → [2018-01-07 10:48:14.602] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: read due to type
+    → [2018-01-07 10:48:14.602] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: readable-stream due to type
+    → [2018-01-07 10:48:14.603] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: reduce-component due to type
+    → [2018-01-07 10:48:14.604] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: requirefresh due to type
+    → [2018-01-07 10:48:14.605] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: repeat-string due to type
+    → [2018-01-07 10:48:14.606] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: right-align due to type
+    → [2018-01-07 10:48:14.607] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: rimraf due to type
+    → [2018-01-07 10:48:14.607] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: safe-buffer due to type
+    → [2018-01-07 10:48:14.608] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: safefs due to type
+    → [2018-01-07 10:48:14.609] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: safeps due to type
+    → [2018-01-07 10:48:14.609] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: scandirectory due to type
+    → [2018-01-07 10:48:14.610] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: semver due to type
+    → [2018-01-07 10:48:14.610] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: setheader due to type
+    → [2018-01-07 10:48:14.612] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: source-map due to type
+    → [2018-01-07 10:48:14.613] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: sprintf-js due to type
+    → [2018-01-07 10:48:14.614] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: stream-counter due to type
+    → [2018-01-07 10:48:14.616] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: string_decoder due to type
+    → [2018-01-07 10:48:14.617] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: superagent due to type
+    → [2018-01-07 10:48:14.618] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: taskgroup due to type
+    → [2018-01-07 10:48:14.618] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: text-hex due to type
+    → [2018-01-07 10:48:14.619] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: textextensions due to type
+    → [2018-01-07 10:48:14.620] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: transformers due to type
+    → [2018-01-07 10:48:14.620] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: tsscmp due to type
+    → [2018-01-07 10:48:14.621] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: typechecker due to type
+    → [2018-01-07 10:48:14.622] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: uglify-js due to type
+    → [2018-01-07 10:48:14.623] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ultron due to type
+    → [2018-01-07 10:48:14.624] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: underscore due to type
+    → [2018-01-07 10:48:14.624] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: utils-merge due to type
+    → [2018-01-07 10:48:14.625] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: void-elements due to type
+    → [2018-01-07 10:48:14.626] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: watchr due to type
+    → [2018-01-07 10:48:14.628] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: window-size due to type
+    → [2018-01-07 10:48:14.628] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: with due to type
+    → [2018-01-07 10:48:14.630] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: wordwrap due to type
+    → [2018-01-07 10:48:14.631] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: wrappy due to type
+    → [2018-01-07 10:48:14.633] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: ws due to type
+    → [2018-01-07 10:48:14.634] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: yamljs due to type
+    → [2018-01-07 10:48:14.635] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: yargs due to type
+    → [2018-01-07 10:48:14.635] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Skipped the unsupported plugin: yeast due to type
+    → [2018-01-07 10:48:14.636] [/usr/lib/node_modules/docpad/out/lib/plugin-loader.js:207] [PluginLoader.unsupported]
+debug: Plugins loaded for: /home/thaopm/docpad_test/dealsy-homework/node_modules
+    → [2018-01-07 10:48:14.637] [/usr/lib/node_modules/docpad/node_modules/scandirectory/out/lib/scandirectory.js:98] [TaskGroup.<anonymous>]
+debug: loadPlugins tasks ➞  load the website's plugins at: /home/thaopm/docpad_test/dealsy-homework/node_modules > done
+    → [2018-01-07 10:48:14.639] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  load plugins > done
+    → [2018-01-07 10:48:14.640] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  extend collections > started
+    → [2018-01-07 10:48:14.675] [events.js:159] [_Class.emit]
+debug: extendCollections tasks > started
+    → [2018-01-07 10:48:14.694] [events.js:159] [_Class.emit]
+debug: Emitting the event: extendCollections
+    → [2018-01-07 10:48:14.695] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2967] [_Class.next]
+debug: Emitted the event: extendCollections
+    → [2018-01-07 10:48:14.703] [events.js:254] [Object.onceWrapper]
+debug: setConfig post tasks ➞  extend collections > done
+    → [2018-01-07 10:48:14.706] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  fetch plugins templateData > started
+    → [2018-01-07 10:48:14.708] [events.js:159] [_Class.emit]
+debug: Emitting the event: extendTemplateData
+    → [2018-01-07 10:48:14.710] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2524] [Task.<anonymous>]
+debug: Emitted the event: extendTemplateData
+    → [2018-01-07 10:48:14.712] [events.js:254] [Object.onceWrapper]
+debug: setConfig post tasks ➞  fetch plugins templateData > done
+    → [2018-01-07 10:48:14.714] [events.js:159] [_Class.emit]
+debug: setConfig post tasks ➞  fire the docpadLoaded event > started
+    → [2018-01-07 10:48:14.716] [events.js:159] [_Class.emit]
+debug: Emitting the event: docpadLoaded
+    → [2018-01-07 10:48:14.717] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2529] [Task.<anonymous>]
+debug: Emitted the event: docpadLoaded
+    → [2018-01-07 10:48:14.719] [events.js:254] [Object.onceWrapper]
+debug: setConfig post tasks ➞  fire the docpadLoaded event > done
+    → [2018-01-07 10:48:14.720] [events.js:159] [_Class.emit]
+info: Welcome to DocPad v6.79.4 (global installation: /usr/lib/node_modules/docpad)
+    → [2018-01-07 10:48:14.727] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+notice: Please donate to DocPad or have your company sponsor it: http://docpad.org/donate
+    → [2018-01-07 10:48:14.728] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+info: Contribute: http://docpad.org/docs/contribute
+    → [2018-01-07 10:48:14.729] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+info: Plugins: jade v2.10.0, livereload v2.9.0, sass v2.8.0
+    → [2018-01-07 10:48:14.730] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+info: Environment: development
+    → [2018-01-07 10:48:14.731] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: ready tasks ➞  welcome event > added
+    → [2018-01-07 10:48:14.732] [events.js:159] [_Class.emit]
+debug: ready tasks ➞  track > added
+    → [2018-01-07 10:48:14.733] [events.js:159] [_Class.emit]
+debug: ready tasks ➞  emit docpadReady > added
+    → [2018-01-07 10:48:14.734] [events.js:159] [_Class.emit]
+debug: ready tasks > started
+    → [2018-01-07 10:48:14.736] [events.js:159] [_Class.emit]
+debug: ready tasks ➞  welcome event > started
+    → [2018-01-07 10:48:14.737] [events.js:159] [_Class.emit]
+debug: Emitting the event: welcome
+    → [2018-01-07 10:48:14.738] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2371] [Task.<anonymous>]
+debug: Emitted the event: welcome
+    → [2018-01-07 10:48:14.760] [events.js:254] [Object.onceWrapper]
+debug: ready tasks ➞  welcome event > done
+    → [2018-01-07 10:48:14.762] [events.js:159] [_Class.emit]
+debug: ready tasks ➞  track > started
+    → [2018-01-07 10:48:14.764] [events.js:159] [_Class.emit]
+debug: track runner ➞  update user > added
+    → [2018-01-07 10:48:14.767] [events.js:159] [_Class.emit]
+debug: ready tasks ➞  track > done
+    → [2018-01-07 10:48:14.769] [events.js:159] [_Class.emit]
+debug: ready tasks ➞  emit docpadReady > started
+    → [2018-01-07 10:48:14.772] [events.js:159] [_Class.emit]
+debug: Emitting the event: docpadReady
+    → [2018-01-07 10:48:14.775] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2379] [Task.<anonymous>]
+debug: Emitted the event: docpadReady
+    → [2018-01-07 10:48:14.777] [events.js:254] [Object.onceWrapper]
+debug: ready tasks ➞  emit docpadReady > done
+    → [2018-01-07 10:48:14.778] [events.js:159] [_Class.emit]
+debug: action runner ➞  runner task for action: generate > added
+    → [2018-01-07 10:48:14.781] [events.js:159] [_Class.emit]
+debug: action runner ➞  runner task for action: ready > done
+    → [2018-01-07 10:48:14.784] [events.js:159] [_Class.emit]
+debug: action runner > started
+    → [2018-01-07 10:48:14.787] [events.js:159] [_Class.emit]
+debug: action runner ➞  runner task for action: generate > started
+    → [2018-01-07 10:48:14.789] [events.js:159] [_Class.emit]
+info: Generating...
+    → [2018-01-07 10:48:14.796] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: Emitting the event: notify
+    → [2018-01-07 10:48:14.805] [/usr/lib/node_modules/docpad/out/lib/docpad.js:3562] [DocPad.notify]
+debug: generate tasks ➞  Reset our collections > added
+    → [2018-01-07 10:48:14.808] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  Figure out options > added
+    → [2018-01-07 10:48:14.810] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  check source directory exists > added
+    → [2018-01-07 10:48:14.811] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  fetch data to render > added
+    → [2018-01-07 10:48:14.812] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  determine files to render > added
+    → [2018-01-07 10:48:14.815] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  generateBefore > added
+    → [2018-01-07 10:48:14.816] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  prepare files > added
+    → [2018-01-07 10:48:14.817] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  process file > added
+    → [2018-01-07 10:48:14.818] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  generateAfter > added
+    → [2018-01-07 10:48:14.819] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  Write the database cache > added
+    → [2018-01-07 10:48:14.820] [events.js:159] [_Class.emit]
+debug: generate tasks > started
+    → [2018-01-07 10:48:14.824] [events.js:159] [_Class.emit]
+debug: Emitted the event: notify
+    → [2018-01-07 10:48:14.828] [events.js:254] [Object.onceWrapper]
+debug: generate tasks ➞  Reset our collections > started
+    → [2018-01-07 10:48:14.830] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  Reset our collections > done
+    → [2018-01-07 10:48:14.837] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  Figure out options > started
+    → [2018-01-07 10:48:14.839] [events.js:159] [_Class.emit]
+debug: Generate options: { cache: false,
+  initial: true,
+  reset: true,
+  populate: true,
+  reload: true,
+  partial: false,
+  renderPasses: 1 }
+    → [2018-01-07 10:48:14.842] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:91] [ambi]
+debug: generate tasks ➞  Figure out options > done
+    → [2018-01-07 10:48:14.846] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  check source directory exists > started
+    → [2018-01-07 10:48:14.847] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  check source directory exists > done
+    → [2018-01-07 10:48:14.849] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  fetch data to render > started
+    → [2018-01-07 10:48:14.851] [events.js:159] [_Class.emit]
+debug: Emitting the event: populateCollectionsBefore
+    → [2018-01-07 10:48:14.855] [/usr/lib/node_modules/docpad/out/lib/docpad.js:5046] [Task.<anonymous>]
+debug: Emitted the event: populateCollectionsBefore
+    → [2018-01-07 10:48:14.857] [events.js:254] [Object.onceWrapper]
+debug: Skipped directory: /home/thaopm/docpad_test/dealsy-homework/src/documents (it does not exist)
+    → [2018-01-07 10:48:14.862] [fs.js:329] [FSReqWrap.cb [as oncomplete]]
+debug: Parsing directory: /home/thaopm/docpad_test/dealsy-homework/src/render
+    → [2018-01-07 10:48:14.866] [fs.js:329] [FSReqWrap.cb [as oncomplete]]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.872] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.875] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.877] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Detect the file > added
+    → [2018-01-07 10:48:14.881] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.882] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.884] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.885] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.886] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.886] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.891] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > started
+    → [2018-01-07 10:48:14.893] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.894] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Detect the file > started
+    → [2018-01-07 10:48:14.896] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.899] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Detect the file > done
+    → [2018-01-07 10:48:14.901] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.903] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.905] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.906] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.908] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.909] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.911] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:14.916] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.919] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.920] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.922] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.924] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.927] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.929] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > added
+    → [2018-01-07 10:48:14.932] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:14.934] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > started
+    → [2018-01-07 10:48:14.935] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.936] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.937] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.938] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.939] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.940] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.941] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:14.942] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:14.943] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:14.947] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.949] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.950] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.951] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.952] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.953] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.954] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: load > started
+    → [2018-01-07 10:48:14.954] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:14.955] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.957] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.958] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.960] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.963] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.965] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.966] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.968] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.969] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.970] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.971] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.972] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.973] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.975] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.977] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.978] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.979] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.979] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.981] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.982] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.984] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.985] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.987] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.987] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.988] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.989] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.991] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:14.993] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:14.994] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:14.995] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:14.995] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:14.997] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:14.999] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:15.000] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:15.001] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:15.003] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:15.004] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Detect the file > added
+    → [2018-01-07 10:48:15.005] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Stat the file and cache the result > added
+    → [2018-01-07 10:48:15.005] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Read the file and cache the result > added
+    → [2018-01-07 10:48:15.006] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Load -> Parse > added
+    → [2018-01-07 10:48:15.007] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Parse -> Normalize > added
+    → [2018-01-07 10:48:15.008] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Normalize -> Contextualize > added
+    → [2018-01-07 10:48:15.008] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.009] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.014] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss > started
+    → [2018-01-07 10:48:15.017] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss > started
+    → [2018-01-07 10:48:15.017] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss > started
+    → [2018-01-07 10:48:15.018] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss > started
+    → [2018-01-07 10:48:15.018] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss > started
+    → [2018-01-07 10:48:15.019] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss > started
+    → [2018-01-07 10:48:15.020] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss > started
+    → [2018-01-07 10:48:15.020] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.021] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.022] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.023] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.024] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.026] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.027] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.028] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.028] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Detect the file > started
+    → [2018-01-07 10:48:15.029] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.030] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.034] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.036] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.037] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.038] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.041] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.042] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.045] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Detect the file > done
+    → [2018-01-07 10:48:15.046] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.048] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.052] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.054] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.055] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.056] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.056] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.057] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.058] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Stat the file and cache the result > started
+    → [2018-01-07 10:48:15.059] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.061] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.063] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.065] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.067] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.069] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.070] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Stat the file and cache the result > done
+    → [2018-01-07 10:48:15.072] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.074] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.076] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.085] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade
+    → [2018-01-07 10:48:15.087] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade
+    → [2018-01-07 10:48:15.088] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding html file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade
+    → [2018-01-07 10:48:15.090] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.093] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.097] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.100] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.101] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.102] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.103] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.103] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Read the file and cache the result > started
+    → [2018-01-07 10:48:15.104] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.105] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.106] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.108] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.110] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.112] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.116] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.118] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.121] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss
+    → [2018-01-07 10:48:15.122] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss
+    → [2018-01-07 10:48:15.124] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.125] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.131] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.133] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.134] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.136] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.137] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.138] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Read the file and cache the result > done
+    → [2018-01-07 10:48:15.139] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.140] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.143] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.144] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.146] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.149] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.152] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.153] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.154] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.155] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.157] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.159] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.160] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Load -> Parse > started
+    → [2018-01-07 10:48:15.161] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Load -> Parse > done
+    → [2018-01-07 10:48:15.162] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.165] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.167] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.169] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.170] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.171] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.172] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.173] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.174] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.176] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.178] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.179] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.182] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Parse -> Normalize > started
+    → [2018-01-07 10:48:15.184] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Parse -> Normalize > done
+    → [2018-01-07 10:48:15.186] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.188] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.189] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.191] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss
+    → [2018-01-07 10:48:15.193] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss
+    → [2018-01-07 10:48:15.196] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.204] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.206] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.207] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.209] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss
+    → [2018-01-07 10:48:15.210] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss
+    → [2018-01-07 10:48:15.212] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.216] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.219] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.221] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.223] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss
+    → [2018-01-07 10:48:15.225] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss
+    → [2018-01-07 10:48:15.227] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.231] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.234] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.235] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.236] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss
+    → [2018-01-07 10:48:15.237] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss
+    → [2018-01-07 10:48:15.239] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.242] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.243] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.244] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.246] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss
+    → [2018-01-07 10:48:15.249] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss
+    → [2018-01-07 10:48:15.251] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.254] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.256] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.258] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.259] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss
+    → [2018-01-07 10:48:15.264] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss
+    → [2018-01-07 10:48:15.267] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.270] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Normalize -> Contextualize > started
+    → [2018-01-07 10:48:15.271] [events.js:159] [_Class.emit]
+debug: load tasks for file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss ➞  Normalize -> Contextualize > done
+    → [2018-01-07 10:48:15.272] [events.js:159] [_Class.emit]
+debug: Updated mtime for these models due to addition of a similar one []
+    → [2018-01-07 10:48:15.273] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding document: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss
+    → [2018-01-07 10:48:15.275] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Adding generate file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss
+    → [2018-01-07 10:48:15.277] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Parsed directory: /home/thaopm/docpad_test/dealsy-homework/src/render
+    → [2018-01-07 10:48:15.281] [/usr/lib/node_modules/docpad/node_modules/scandirectory/out/lib/scandirectory.js:98] [TaskGroup.<anonymous>]
+debug: file action runner ➞  runner task for action: load > done
+    → [2018-01-07 10:48:15.285] [events.js:159] [_Class.emit]
+debug: Skipped directory: /home/thaopm/docpad_test/dealsy-homework/src/files (it does not exist)
+    → [2018-01-07 10:48:15.294] [fs.js:329] [FSReqWrap.cb [as oncomplete]]
+debug: Parsing directory: /home/thaopm/docpad_test/dealsy-homework/src/static
+    → [2018-01-07 10:48:15.301] [fs.js:329] [FSReqWrap.cb [as oncomplete]]
+debug: Parsed directory: /home/thaopm/docpad_test/dealsy-homework/src/static
+    → [2018-01-07 10:48:15.303] [/usr/lib/node_modules/docpad/node_modules/scandirectory/out/lib/scandirectory.js:93] [unknown]
+debug: Skipped directory: /home/thaopm/docpad_test/dealsy-homework/src/public (it does not exist)
+    → [2018-01-07 10:48:15.305] [fs.js:329] [FSReqWrap.cb [as oncomplete]]
+debug: Parsing directory: /home/thaopm/docpad_test/dealsy-homework/src/layouts
+    → [2018-01-07 10:48:15.307] [fs.js:329] [FSReqWrap.cb [as oncomplete]]
+debug: Parsed directory: /home/thaopm/docpad_test/dealsy-homework/src/layouts
+    → [2018-01-07 10:48:15.308] [/usr/lib/node_modules/docpad/node_modules/scandirectory/out/lib/scandirectory.js:93] [unknown]
+debug: Emitting the event: populateCollections
+    → [2018-01-07 10:48:15.309] [/usr/lib/node_modules/docpad/out/lib/docpad.js:5109] [Task.<anonymous>]
+debug: Emitted the event: populateCollections
+    → [2018-01-07 10:48:15.313] [events.js:254] [Object.onceWrapper]
+debug: generate tasks ➞  fetch data to render > done
+    → [2018-01-07 10:48:15.316] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  determine files to render > started
+    → [2018-01-07 10:48:15.319] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  determine files to render > done
+    → [2018-01-07 10:48:15.321] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  generateBefore > started
+    → [2018-01-07 10:48:15.322] [events.js:159] [_Class.emit]
+debug: Emitting the event: generateBefore
+    → [2018-01-07 10:48:15.322] [/usr/lib/node_modules/docpad/out/lib/docpad.js:5141] [Task.<anonymous>]
+debug: Emitted the event: generateBefore
+    → [2018-01-07 10:48:15.355] [events.js:254] [Object.onceWrapper]
+debug: generate tasks ➞  generateBefore > done
+    → [2018-01-07 10:48:15.356] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  prepare files > started
+    → [2018-01-07 10:48:15.358] [events.js:159] [_Class.emit]
+debug: Files to generate at null 
+ [ { id: 'c2',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade',
+    mtime: '2018-01-07T03:32:05.740Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: true },
+  { id: 'c3',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss',
+    mtime: '2018-01-07T03:20:17.246Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: true },
+  { id: 'c4',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_all.scss',
+    mtime: '2018-01-07T03:10:20.251Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false },
+  { id: 'c5',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_function.scss',
+    mtime: '2018-01-07T03:10:38.168Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false },
+  { id: 'c6',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_mixin.scss',
+    mtime: '2018-01-07T03:10:47.317Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false },
+  { id: 'c7',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_placeholders.scss',
+    mtime: '2018-01-07T03:11:20.697Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false },
+  { id: 'c8',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/abstracts/_variables.scss',
+    mtime: '2018-01-07T02:53:07.754Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false },
+  { id: 'c9',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_all.scss',
+    mtime: '2018-01-07T03:09:44.001Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false },
+  { id: 'c10',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/components/_header.scss',
+    mtime: '2018-01-07T03:31:33.000Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: false } ]
+    → [2018-01-07 10:48:15.360] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: Files to generate at null 
+ [ { id: 'c2',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade',
+    mtime: '2018-01-07T03:32:05.740Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: true },
+  { id: 'c3',
+    path: '/home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss',
+    mtime: '2018-01-07T03:20:17.246Z',
+    wtime: null,
+    dynamic: false,
+    ignored: false,
+    write: true } ]
+    → [2018-01-07 10:48:15.364] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: generate tasks ➞  prepare files > done
+    → [2018-01-07 10:48:15.365] [events.js:159] [_Class.emit]
+debug: generate tasks ➞  process file > started
+    → [2018-01-07 10:48:15.368] [events.js:159] [_Class.emit]
+debug: Contextualizing 2 files
+    → [2018-01-07 10:48:15.373] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: Emitting the event: contextualizeBefore
+    → [2018-01-07 10:48:15.374] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4467] [DocPad.contextualizeFiles]
+debug: Emitted the event: contextualizeBefore
+    → [2018-01-07 10:48:15.375] [events.js:254] [Object.onceWrapper]
+debug: contextualizeFiles tasks ➞  conextualizing: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > added
+    → [2018-01-07 10:48:15.377] [events.js:159] [_Class.emit]
+debug: contextualizeFiles tasks ➞  conextualizing: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > added
+    → [2018-01-07 10:48:15.379] [events.js:159] [_Class.emit]
+debug: contextualizeFiles tasks > started
+    → [2018-01-07 10:48:15.383] [events.js:159] [_Class.emit]
+debug: contextualizeFiles tasks ➞  conextualizing: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > started
+    → [2018-01-07 10:48:15.384] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: contextualize > added
+    → [2018-01-07 10:48:15.386] [events.js:159] [_Class.emit]
+debug: contextualizeFiles tasks ➞  conextualizing: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > started
+    → [2018-01-07 10:48:15.388] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: contextualize > added
+    → [2018-01-07 10:48:15.389] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: contextualize > started
+    → [2018-01-07 10:48:15.390] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:15.391] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: contextualize > started
+    → [2018-01-07 10:48:15.392] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:15.393] [events.js:159] [_Class.emit]
+debug: contextualizeFiles tasks ➞  conextualizing: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > done
+    → [2018-01-07 10:48:15.396] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: contextualize > done
+    → [2018-01-07 10:48:15.398] [events.js:159] [_Class.emit]
+debug: contextualizeFiles tasks ➞  conextualizing: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > done
+    → [2018-01-07 10:48:15.401] [events.js:159] [_Class.emit]
+debug: Emitting the event: contextualizeAfter
+    → [2018-01-07 10:48:15.404] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4487] [_Class.next]
+debug: file action runner ➞  runner task for action: contextualize > done
+    → [2018-01-07 10:48:15.406] [events.js:159] [_Class.emit]
+debug: Emitted the event: contextualizeAfter
+    → [2018-01-07 10:48:15.408] [events.js:254] [Object.onceWrapper]
+debug: Contextualized 2 files
+    → [2018-01-07 10:48:15.410] [/usr/lib/node_modules/docpad/out/lib/docpad.js:2205] [TaskGroup.<anonymous>]
+debug: Rendering 2 files
+    → [2018-01-07 10:48:15.412] [/usr/lib/node_modules/docpad/node_modules/ambi/source/index.js:84] [ambi]
+debug: Emitting the event: renderBefore
+    → [2018-01-07 10:48:15.413] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4619] [DocPad.renderFiles]
+debug: Emitted the event: renderBefore
+    → [2018-01-07 10:48:15.416] [events.js:254] [Object.onceWrapper]
+debug: renderCollection: renderBefore tasks ➞  rendering the initial collection > added
+    → [2018-01-07 10:48:15.420] [events.js:159] [_Class.emit]
+debug: renderCollection: renderBefore tasks > started
+    → [2018-01-07 10:48:15.423] [events.js:159] [_Class.emit]
+debug: renderCollection: renderBefore tasks ➞  rendering the initial collection > started
+    → [2018-01-07 10:48:15.424] [events.js:159] [_Class.emit]
+debug: Emitting the event: renderCollectionBefore
+    → [2018-01-07 10:48:15.425] [/usr/lib/node_modules/docpad/out/lib/docpad.js:4577] [renderCollection]
+debug: Emitted the event: renderCollectionBefore
+    → [2018-01-07 10:48:15.427] [events.js:254] [Object.onceWrapper]
+debug: renderCollection: null ➞  rendering: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > added
+    → [2018-01-07 10:48:15.428] [events.js:159] [_Class.emit]
+debug: renderCollection: null ➞  rendering: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > added
+    → [2018-01-07 10:48:15.431] [events.js:159] [_Class.emit]
+debug: renderCollection: null > started
+    → [2018-01-07 10:48:15.434] [events.js:159] [_Class.emit]
+debug: renderCollection: null ➞  rendering: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > started
+    → [2018-01-07 10:48:15.436] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: render > added
+    → [2018-01-07 10:48:15.438] [events.js:159] [_Class.emit]
+debug: renderCollection: null ➞  rendering: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > started
+    → [2018-01-07 10:48:15.440] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: render > added
+    → [2018-01-07 10:48:15.441] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: render > started
+    → [2018-01-07 10:48:15.442] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:15.443] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: render > started
+    → [2018-01-07 10:48:15.444] [events.js:159] [_Class.emit]
+debug: file action runner > started
+    → [2018-01-07 10:48:15.444] [events.js:159] [_Class.emit]
+debug: Rendering the file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade
+    → [2018-01-07 10:48:15.447] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:370] [triggerEvents]
+debug: render tasks for: index.html.jade ➞  renderExtensions: index.html.jade > added
+    → [2018-01-07 10:48:15.449] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderDocument: index.html.jade > added
+    → [2018-01-07 10:48:15.450] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderLayouts: index.html.jade > added
+    → [2018-01-07 10:48:15.451] [events.js:159] [_Class.emit]
+debug: Rendering the file: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss
+    → [2018-01-07 10:48:15.453] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:370] [triggerEvents]
+debug: render tasks for: styles/main.css.scss ➞  renderExtensions: styles/main.css.scss > added
+    → [2018-01-07 10:48:15.455] [events.js:159] [_Class.emit]
+debug: render tasks for: styles/main.css.scss ➞  renderDocument: styles/main.css.scss > added
+    → [2018-01-07 10:48:15.456] [events.js:159] [_Class.emit]
+debug: render tasks for: styles/main.css.scss ➞  renderLayouts: styles/main.css.scss > added
+    → [2018-01-07 10:48:15.456] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade > started
+    → [2018-01-07 10:48:15.457] [events.js:159] [_Class.emit]
+debug: render tasks for: styles/main.css.scss > started
+    → [2018-01-07 10:48:15.458] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderExtensions: index.html.jade > started
+    → [2018-01-07 10:48:15.459] [events.js:159] [_Class.emit]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  renderExtension: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade [jade => html] > added
+    → [2018-01-07 10:48:15.461] [events.js:159] [_Class.emit]
+debug: render tasks for: styles/main.css.scss ➞  renderExtensions: styles/main.css.scss > started
+    → [2018-01-07 10:48:15.462] [events.js:159] [_Class.emit]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  renderExtension: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss [scss => css] > added
+    → [2018-01-07 10:48:15.463] [events.js:159] [_Class.emit]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > started
+    → [2018-01-07 10:48:15.466] [events.js:159] [_Class.emit]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss > started
+    → [2018-01-07 10:48:15.467] [events.js:159] [_Class.emit]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  renderExtension: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade [jade => html] > started
+    → [2018-01-07 10:48:15.468] [events.js:159] [_Class.emit]
+debug: Emitting the event: render
+    → [2018-01-07 10:48:15.470] [/usr/lib/node_modules/docpad/out/lib/docpad.js:3868] [DocumentModel.<anonymous>]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss ➞  renderExtension: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss [scss => css] > started
+    → [2018-01-07 10:48:15.474] [events.js:159] [_Class.emit]
+debug: Emitting the event: render
+    → [2018-01-07 10:48:15.475] [/usr/lib/node_modules/docpad/out/lib/docpad.js:3868] [DocumentModel.<anonymous>]
+debug: Adding file that references others: /home/thaopm/docpad_test/dealsy-homework/src/render/styles/main.css.scss
+    → [2018-01-07 10:48:15.538] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:371] [triggerEvents]
+debug: Emitted the event: render
+    → [2018-01-07 10:48:15.546] [events.js:254] [Object.onceWrapper]
+debug: renderExtensions: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade ➞  renderExtension: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade [jade => html] > done
+    → [2018-01-07 10:48:15.549] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderExtensions: index.html.jade > done
+    → [2018-01-07 10:48:15.550] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderDocument: index.html.jade > started
+    → [2018-01-07 10:48:15.554] [events.js:159] [_Class.emit]
+debug: Emitting the event: renderDocument
+    → [2018-01-07 10:48:15.555] [/usr/lib/node_modules/docpad/out/lib/docpad.js:3873] [DocumentModel.<anonymous>]
+debug: Emitted the event: renderDocument
+    → [2018-01-07 10:48:15.561] [events.js:254] [Object.onceWrapper]
+debug: render tasks for: index.html.jade ➞  renderDocument: index.html.jade > done
+    → [2018-01-07 10:48:15.562] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderLayouts: index.html.jade > started
+    → [2018-01-07 10:48:15.595] [events.js:159] [_Class.emit]
+debug: render tasks for: index.html.jade ➞  renderLayouts: index.html.jade > done
+    → [2018-01-07 10:48:15.597] [events.js:159] [_Class.emit]
+debug: Rendered the file: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade
+    → [2018-01-07 10:48:15.599] [/usr/lib/node_modules/docpad/node_modules/backbone/backbone.js:370] [triggerEvents]
+debug: renderCollection: null ➞  rendering: /home/thaopm/docpad_test/dealsy-homework/src/render/index.html.jade > done
+    → [2018-01-07 10:48:15.600] [events.js:159] [_Class.emit]
+debug: file action runner ➞  runner task for action: render > done
+    → [2018-01-07 10:48:15.602] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:15.901] [events.js:159] [_Class.emit]
+error: An error occured:
+
+TypeError: Cannot read property 'toString' of null
+    at /home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/es5/sass.plugin.js:150:35
+    at TaskGroup.<anonymous> (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/safeps/source/index.js:545:5)
+    at Object.onceWrapper (events.js:254:19)
+    at TaskGroup.emit (events.js:159:13)
+    at TaskGroup.listener (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/interface.js:59:10)
+    at TaskGroup.emit (events.js:159:13)
+    at TaskGroup.finish (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/taskgroup.js:976:8)
+    at TaskGroup.fire (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/taskgroup.js:1041:10)
+    at TaskGroup.itemDoneCallback (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/taskgroup.js:953:8)
+    at Task.<anonymous> (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/taskgroup.js:720:7)
+    at Object.onceWrapper (events.js:254:19)
+    at Task.emit (events.js:159:13)
+    at Task.listener (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/interface.js:59:10)
+    at Task.emit (events.js:159:13)
+    at Task.finish (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/task.js:415:9)
+    at Task.itemCompletionCallback (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/task.js:372:8)
+    at completeMethod (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/taskgroup/source/lib/task.js:504:5)
+    at ChildProcess.<anonymous> (/home/thaopm/docpad_test/dealsy-homework/node_modules/docpad-plugin-sass/node_modules/safeps/source/index.js:620:13)
+    at ChildProcess.emit (events.js:159:13)
+    at maybeClose (internal/child_process.js:943:16)
+    at Socket.stream.socket.on (internal/child_process.js:363:11)
+    at Socket.emit (events.js:159:13)
+    at Pipe._handle.close [as _onclose] (net.js:568:12)
+
+To report the above, follow the guide at: http://docpad.org/bug-report
+    → [2018-01-07 10:48:15.903] [/usr/lib/node_modules/docpad/out/lib/docpad.js:3447] [DocPad.error]
+debug: Emitting the event: notify
+    → [2018-01-07 10:48:15.904] [/usr/lib/node_modules/docpad/out/lib/docpad.js:3562] [DocPad.notify]
+debug: track runner > started
+    → [2018-01-07 10:48:15.905] [events.js:159] [_Class.emit]
+debug: track runner ➞  update user > started
+    → [2018-01-07 10:48:15.909] [events.js:159] [_Class.emit]
+debug: Emitted the event: notify
+    → [2018-01-07 10:48:15.916] [events.js:254] [Object.onceWrapper]
+debug: track runner ➞  update user > done
+    → [2018-01-07 10:48:17.529] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.531] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.533] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.534] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.538] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.542] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.545] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.547] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.551] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.555] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.560] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.564] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.570] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.576] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.580] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.588] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.594] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.606] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.612] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.621] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.628] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.638] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.645] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.654] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.662] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.674] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.684] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.694] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.705] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.714] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.725] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.737] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.747] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.760] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.776] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.790] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.803] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.815] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.830] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.843] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.858] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.874] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.887] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.902] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.917] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.932] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.947] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.965] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.981] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:17.997] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.012] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.029] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.046] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.064] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.081] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.100] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.118] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.138] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.157] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.177] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.196] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.215] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.237] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.259] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.283] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.313] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.333] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.355] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.376] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.397] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.421] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.444] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.468] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.494] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.518] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.545] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.569] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.595] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.634] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.662] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.690] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.716] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.744] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.771] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.798] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.827] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.855] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.883] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.912] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.939] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.968] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:18.995] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.028] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.058] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.089] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.120] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.151] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.181] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.213] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.245] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.279] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.312] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.346] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.378] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.411] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.444] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.477] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.514] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.554] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.593] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.631] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.664] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.700] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.734] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.769] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.803] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.839] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.876] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.913] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.950] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:19.990] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.028] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.065] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.102] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.140] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.180] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.221] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.261] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.302] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.344] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.386] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.428] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.469] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.512] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.554] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.597] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.641] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.684] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.727] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.769] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.812] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.854] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.897] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.943] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:20.988] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.031] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.076] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.121] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.166] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.219] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.275] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.318] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.363] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.410] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.463] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.512] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.559] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.605] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.652] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.700] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.748] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.801] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.868] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.919] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:21.967] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.017] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.069] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.123] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.178] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.232] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.284] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.337] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.392] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.448] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.504] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.562] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.618] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.674] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.730] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.788] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.845] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.902] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:22.958] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.014] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.072] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.130] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.189] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.248] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.305] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.362] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.428] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.491] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.561] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.620] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.681] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.746] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.807] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.871] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:23.947] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.011] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.072] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.137] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.202] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.263] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.326] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.389] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.450] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.519] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.583] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.646] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.713] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.776] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.841] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.906] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:24.974] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.051] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.129] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.199] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.267] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.334] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.400] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.468] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.536] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.603] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.674] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.745] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.818] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.885] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:25.953] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.020] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.088] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.159] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.232] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.304] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.378] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.451] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.525] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.599] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.673] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.750] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.823] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.898] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:26.972] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.046] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.120] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.205] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.289] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.380] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.477] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.554] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.632] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.710] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.787] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.866] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:27.945] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.021] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.099] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.177] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.255] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.337] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.417] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.496] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.576] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.657] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.736] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.819] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.898] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:28.979] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.059] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.140] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.222] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.308] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.399] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.499] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.600] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.702] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.796] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.879] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:29.963] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.046] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.131] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.217] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.301] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.384] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.468] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.561] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.648] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.734] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.822] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:30.910] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.001] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.089] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.178] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.267] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.355] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.449] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.538] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.627] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.719] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.813] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:31.915] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.015] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.113] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.206] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.301] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.405] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.513] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.626] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.726] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.823] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:32.918] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.012] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.108] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.201] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.293] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.386] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.480] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.575] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.670] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.771] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.865] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:33.959] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.058] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.154] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.250] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.347] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.443] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.542] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.640] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.740] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.839] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:34.937] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.035] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.150] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.278] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.402] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.501] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.602] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.703] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.804] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:35.905] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.005] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.108] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.213] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.318] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.423] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.527] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.640] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.742] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.848] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:36.950] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.056] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.160] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.271] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.380] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.492] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.598] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.707] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.830] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:37.945] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.087] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.213] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.325] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.435] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.545] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.661] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.770] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.878] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:38.989] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.103] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.213] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.323] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.431] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.541] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.650] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.763] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.874] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:39.989] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.103] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.216] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.331] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.452] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.568] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.691] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.814] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:40.953] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.084] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.205] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.347] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.463] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.586] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.705] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.829] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:41.949] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.078] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.195] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.319] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.437] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.560] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.676] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.794] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:42.913] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.033] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.149] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.264] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.384] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.502] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.636] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.786] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:43.911] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.029] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.158] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.291] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.428] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.554] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.685] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.817] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:44.948] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.072] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.201] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.325] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.451] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.583] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.710] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.838] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:45.969] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.099] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.229] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.365] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.505] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.683] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.811] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:46.937] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.070] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.202] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.330] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.471] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.602] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.731] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:47.873] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.006] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.133] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.270] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.403] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.538] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.675] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.809] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:48.943] [events.js:159] [_Class.emit]
+debug: track runner ➞  track task > added
+    → [2018-01-07 10:48:49.083] [events.js:159] [_Class.emit]

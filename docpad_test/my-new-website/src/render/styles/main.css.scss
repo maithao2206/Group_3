@@ -1,0 +1,39 @@
+//variables
+//------color---------
+@import 'abstracts/variables';
+@import 'component/header';
+
+
+//function
+//truyen bien tra ve gia tri
+@function  px_to_rem($px,$font-root) {
+    @return $px;
+}
+
+//placeholder
+%f-normal {
+    font-size: 30px;
+}
+//mixin
+//group nhieu thuoc tinh
+@mixin square ($size:300px) {
+    width: $size;
+    height: $size;
+    background: $cl-gray;
+}
+@mixin btn($f-size, $weight) {
+ 
+}
+
+.dark-bg {
+    background:$cl-gray;;
+}
+
+.text {
+    @extend %f-normal;
+    color: $cl-blue;
+    & > number {
+        background: red;
+        @include square()
+    }
+}

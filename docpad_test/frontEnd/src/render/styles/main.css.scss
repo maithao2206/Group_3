@@ -1,0 +1,12 @@
+@import 'abstracts/all';
+@import 'components/all';
+
+.text {
+  @extend %f-normal;
+  @extend .dark-bg;
+  color: $cl-blue;
+  & .number {
+    background: red;
+    @include square(100px);
+  }
+}

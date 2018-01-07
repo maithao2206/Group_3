@@ -1,0 +1,14 @@
+doctype html
+html
+  head
+    title Run docpad
+    link(rel="stylesheet", href="styles/main.css", attr)
+  body
+    h1.text(data-id = "12" data-text= "1232") Merry hoai 1/1/2018 Mau Tuat 1232 1422
+    .text(data-id = "12" data-text= "1232") Merry hoai 1/1/2018 Mau Tuat 1232 1422
+       .number 1232
+         .abc
+          p.number 5645654 
+    include ./../layouts/example.jade
+
+  != getBlock('scripts').toHTML()

@@ -1,0 +1,18 @@
+DOCTYPE 
+html
+head
+    title Run docpad
+    link(rel="stylesheet", href="styles/main.css", attr)
+body
+    h1.text(data-id="12" data-text="123") happy new year  2018 hahaha
+    .text happy new year  2018
+    
+    include ./../layouts/example.jade
+   != getBlock('scripts').toHTML()
+   
+//- - read more syntax of jade
+//-   + mixin
+//-   + variable
+//-   + loop
+//-   + if
+//- - overview scss

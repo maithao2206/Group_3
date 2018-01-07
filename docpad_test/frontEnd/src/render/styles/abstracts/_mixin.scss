@@ -1,0 +1,21 @@
+// mixin
+@mixin square($size) {
+  width: $size;
+  height: $size;
+  background:red;
+}
+
+@mixin btn($f-size, $f-weight, $color: white) {
+  font-size: $f-size;
+  font-weight: $f-weight;
+  color: $color;
+}
+.btn-save {
+  @include btn(12px, 100);
+  border: 1px solid black;
+}
+
+.btn-cancel {
+  @include btn(14px, bold, green);
+  border: 2px solid yellow;
+}
